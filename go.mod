@@ -13,4 +13,4 @@ require (
 	korok.io/korok v0.0.0-00010101000000-000000000000
 )
 
-replace korok.io/korok => github.com/KorokEngine/Korok v0.0.0-20190510074201-e1c21c90d257
+replace korok.io/korok => github.com/tskdsb/Korok v0.0.0-20190510074201-e1c21c90d257
